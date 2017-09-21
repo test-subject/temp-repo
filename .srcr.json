@@ -1,0 +1,7 @@
+{
+  "publishGistUrl": {
+    "name": "blocks",
+    "url": "https://bl.ocks.org/${owner}/${gistId}"
+  },
+  "saveGenerated": false
+}
